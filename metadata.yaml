@@ -1,0 +1,30 @@
+_repo: The-pearl-of-charity-b-or-the-chain-and-seals_71822
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    - Hattie, Aunt
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: https://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: ''
+gutenberg_issued: '2023-10-06'
+identifiers:
+  gutenberg: '71822'
+language: en
+pgterms:marc905: 20231002184216leslie
+pgterms:marc906: '1868'
+pgterms:marc907: US
+publication_note: '  $aBoston :$bA. F. Graves, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The pearl of charity : $b or, the chain and seals.'
+url: http://www.gutenberg.org/ebooks/71822
